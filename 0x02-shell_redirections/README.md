@@ -11,3 +11,4 @@ duplicate
 no more js
 directories
 newest files
+unique
