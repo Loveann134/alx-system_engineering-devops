@@ -3,3 +3,4 @@ a script that displays a confused smiley
 display the content of the /etc/passwd file
 display content of passwd and hosts
 last lines
+first ones
