@@ -5,3 +5,4 @@ display content of passwd and hosts
 last lines
 first ones
 a script that displays the third line of the file iacta.
+new script
