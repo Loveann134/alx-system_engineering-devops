@@ -12,3 +12,4 @@ no more js
 directories
 newest files
 unique
+Display lines containing the pattern “root” from the file /etc/passwd
