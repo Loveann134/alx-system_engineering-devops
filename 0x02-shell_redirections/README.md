@@ -9,3 +9,4 @@ new script
 save current state of directory
 duplicate
 no more js
+directories
